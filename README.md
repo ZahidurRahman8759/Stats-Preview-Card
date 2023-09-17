@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML](https://your-solution-url.com)
-- Solution URL: [CSS](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Solution URL: [HTML](https://github.com/ZahidurRahman8759/Stats-Preview-Card/blob/d4d23605df7a6042f345bc10137be5b92f049e87/index.html)
+- Solution URL: [CSS](https://github.com/ZahidurRahman8759/Stats-Preview-Card/blob/d4d23605df7a6042f345bc10137be5b92f049e87/style.css)
+- Live Site URL: [LIVE SITE](https://zahidurrahman8759.github.io/Stats-Preview-Card/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ZahidurRahman8759](https://www.frontendmentor.io/profile/ZahidurRahman8759)
